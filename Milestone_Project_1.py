@@ -50,7 +50,7 @@ def game_on():
     else:
         return False
 #print(game_on())
-
+ 
 # INTIALZE ALL FUNCTIONS 
 game_o=True
 my_list=[0,1,2]
